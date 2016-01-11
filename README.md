@@ -5,4 +5,5 @@ For all reports  4 buttons appear for export to Excel (.xlsx), CSV-file, pdf and
 The plugin is based on [DataTables.js](https://www.datatables.net/), a jQuery plugin. Only two configuration files from Orange needed some change. 
 I hope it is usefull
 
-#How to install: copy the files with path into the root of OrangeHRM, normally no need to restart the server
+#How to install:
+copy the files with path into the root of OrangeHRM, normally no need to restart the server
